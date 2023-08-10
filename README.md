@@ -9,7 +9,7 @@ The rapidly accumulating experimental evidence begin to support a strong associa
 </p>
 
 <p align = "left">
-<b>Fig.1</b> Overview of the MB-LRP workflow. <b>a.</b> Three-stage framework of MB-LRP, detailing
+<b>Fig.1 Overview of the MB-LRP workflow. a.</b> Three-stage framework of MB-LRP, detailing
 data source and cohort design. <b>b.</b> Workflow of Stage I: Prediction. <b>c.</b> Workflow of Stage II: Biomarker Identification. <b>d.</b> Workflow of Stage III: Validation.
 </p>
 
