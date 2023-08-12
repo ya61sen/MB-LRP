@@ -1,4 +1,6 @@
-# MB-LRP
+# [MB-LRP](https://cdc.biohpc.swmed.edu/mblrp/)
+
+All results are accessible at our data portal: https://cdc.biohpc.swmed.edu/mblrp/.
 
 ## Overview
 
