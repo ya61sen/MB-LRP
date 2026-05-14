@@ -7,7 +7,7 @@ All results are accessible at the MB-LRP data portal: https://cdc.biohpc.swmed.e
 Emerging evidence supports an important role for the intratumor microbiome in tumorigenesis. However, most studies have focused on a limited set of bacterial species or a single cancer type, leaving the broader relationships between diverse microbes and cancer-related features insufficiently characterized. To address this gap, we developed MB-LRP, a three-stage computational framework that combines deep learning with layer-wise relevance propagation (LRP) to identify microbial biomarkers associated with clinical, immune, and genomic features of cancer patients. Using colon and stomach cancer cohorts, we evaluated MB-LRP predictions and assessed the resulting biomarkers against available experimental evidence, confirming multiple previously unrecognized candidate biomarkers. We further improved interpretability by annotating identified taxa according to bacterial isolation source information to distinguish likely host-associated and environmental signals. Overall, MB-LRP provides a systematic approach for discovering tumor-associated microbial biomarkers and may help reveal previously unexplored cancer-microbiome associations. All microbial biomarkers identified by MB-LRP across immune, clinical, and genomic features are available through the MB-LRP data portal (https://cdc.biohpc.swmed.edu/mblrp).
 
 <p align="center">
-  <img src="./framework.png" width="700"/>
+  <img src="./framework.jpg" width="700"/>
 </p>
 
 ## About This Repository
