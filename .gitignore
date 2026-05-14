@@ -1,0 +1,22 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Generated analysis artifacts
+models/
+results/
+figures/
+
+# Excluded data types
+data/lefse_data_2/
+data/saved_data/
+**/data/processed data/
+**/processed data/
+*SHOGUN*
+combined.genus_abundance*
+*_microbiome_clean.pkl
+*_disease_microbiome_clean.pkl
+Microbiome_Survival_Analysis_*
+*.zip
+*.tar.gz

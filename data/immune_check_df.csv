@@ -1,0 +1,137 @@
+,features,immune feature (1/0)
+0,PATIENT_BARCODE,
+1,DISEASE,
+2,HLA-A1,1
+3,HLA-A2,1
+4,homo HLA-A =1,1
+5,HLA-B1,1
+6,HLA-B2,1
+7,homo HLA-B =1,1
+8,HLA-C1,1
+9,HLA-C2,1
+10,homo HLA-C =1,1
+11,Homozygous in at least one locus = 1,1
+12,Homozygous in all three loci = 1,1
+13,Unnamed: 14,
+14,order in TCGA clinical data table,
+15,patientBarcode,
+16,bcr_patient_barcode,
+17,type,
+18,age_at_initial_pathologic_diagnosis,
+19,gender,
+20,race,
+21,ajcc_pathologic_tumor_stage,
+22,clinical_stage,
+23,"Merged_stage (pathologic priority, clinical as backup)",
+24,histological_type,
+25,histological_grade,
+26,initial_pathologic_dx_year,
+27,menopause_status,
+28,birth_days_to,
+29,vital_status,
+30,tumor_status,
+31,last_contact_days_to,
+32,death_days_to,
+33,cause_of_death,
+34,new_tumor_event_type,
+35,new_tumor_event_site,
+36,new_tumor_event_site_other,
+37,new_tumor_event_dx_days_to,
+38,treatment_outcome_first_course,
+39,margin_status,
+40,residual_tumor,
+41,OS (dead=1),
+42,OS.time (days),
+43,DSS,
+44,DFI,
+45,DFI.time (days),
+46,PFI,
+47,PFI.time (days),
+48,Redaction,
+49,Unnamed: 52,
+50,barcode,
+51,days_to_death,
+52,days_to_last_followup,
+53,ethnicity,
+54,karnofsky_performance_score,
+55,number_of_lymph_nodes,
+56,number_pack_years_smoked,
+57,M_stage,
+58,N_stage,
+59,T_stage,
+60,radiation_therapy,
+61,tumor_tissue_site,
+62,datasource,
+63,disease,
+64,hypermutated (colon),
+65,methylation_subtype,
+66,msi_status,
+67,tobacco_smoking_history,
+68,tobacco_smoking_pack_years_smoked,
+69,tobacco_smoking_year_stopped,
+70,ER+,
+71,HER2+,
+72,PAM50MRNA,
+73,PR+,
+74,TNBC,
+75,Unnamed: 81,
+76,Unnamed: 82,
+77,Unnamed: 83,
+78,TCGA Participant Barcode,
+79,TCGA Study,
+80,Immune Subtype,1
+81,TCGA Subtype,
+82,Leukocyte Fraction,1
+83,Stromal Fraction,
+84,Intratumor Heterogeneity,
+85,TIL Regional Fraction,1
+86,Proliferation,
+87,Wound Healing,
+88,Macrophage Regulation,1
+89,Lymphocyte Infiltration Signature Score,1
+90,IFN-gamma Response,1
+91,TGF-beta Response,1
+92,SNV Neoantigens,1
+93,Indel Neoantigens,1
+94,Silent Mutation Rate,
+95,Nonsilent Mutation Rate,
+96,Number of Segments,
+97,Fraction Altered,
+98,Aneuploidy Score,
+99,Homologous Recombination Defects,
+100,BCR Evenness,1
+101,BCR Shannon,1
+102,BCR Richness,1
+103,TCR Shannon,1
+104,TCR Richness,1
+105,TCR Evenness,1
+106,CTA Score,
+107,Th1 Cells,1
+108,Th2 Cells,1
+109,Th17 Cells,1
+110,B Cells Memory,1
+111,B Cells Naive,1
+112,Dendritic Cells Activated,1
+113,Dendritic Cells Resting,1
+114,Eosinophils,1
+115,Macrophages M0,1
+116,Macrophages M1,1
+117,Macrophages M2,1
+118,Mast Cells Activated,1
+119,Mast Cells Resting,1
+120,Monocytes,1
+121,Neutrophils,1
+122,NK Cells Activated,1
+123,NK Cells Resting,1
+124,Plasma Cells,1
+125,T Cells CD4 Memory Activated,1
+126,T Cells CD4 Memory Resting,1
+127,T Cells CD4 Naive,1
+128,T Cells CD8,1
+129,T Cells Follicular Helper,1
+130,T Cells gamma delta,1
+131,T Cells Regulatory Tregs,1
+132,Lymphocytes,1
+133,Mast Cells,1
+134,Dendritic Cells,1
+135,Macrophages,1
